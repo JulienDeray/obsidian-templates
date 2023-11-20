@@ -1,0 +1,1 @@
+[[{{date:DD.MM.YYYY}}]]
